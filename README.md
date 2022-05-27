@@ -2,7 +2,11 @@
 ## 前言
 参考b站UP主 霹雳吧啦Wz，学习部署深度学习经典框架。
 ## 图像分类
-
+* ResNet / ResNeXt
+```
+ResNet / ResNeXt 网络实现
+├── ResNet: 根目录
+```
 ## 目标检测
 
 ## 关键点检测
